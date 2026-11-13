@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.poscashier",
+  "appName": "收銀POS",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
